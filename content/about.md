@@ -1,28 +1,28 @@
 ---
-title: What about me?
-description: Yes, this is about me
-
+title: What About Me?
+description: A little bit about who I am
 date: 2025-02-20T20:12:52+08:00
 lastmod: 2025-02-20T20:12:52+08:00
+---
+
+## Hey, I'm Myat Min Khant 👋
+
+I'm **Myat Min Khant**, a final-year **Cyber Security and Forensic** student at the **University of Computer Studies, Yangon**.
+
+Currently, I'm working as a **SOC Analyst** at **Kernellix**, where I deal with real-world threats and security monitoring on a daily basis.
+
+I’m passionate about all things cybersecurity — especially **Reverse Engineering**, **Web Security**, and **Digital Forensics**. I actively participate in **CTFs** and enjoy solving challenging problems that require both technical skills and creativity.
+
+If you’ve made it to my blog, I hope something here interests or inspires you. Don’t hesitate to reach out — I’m always up for a good conversation on cyber stuff!
+
+> <----- Yep, you found this little corner. Glad you're here!
+
+Hope you enjoy reading, and have an awesome day!
 
 ---
-## Yes, I'm jinn
 
-Hi, I'm **Le Phu Duc**, but you can call me **Jinn** for simplicity.
+## 🌍 A Dream to Travel
 
-I'm a student from [VNUHCM - University of Information Technology](https://en.uit.edu.vn/), currently working at [ECQ](https://e-cq.net/) as **Security Analyst**.
-
-I love playing **CTFs** and exploring cybersecurity. In particular, I'm already diving into **Reverse Engineering** and other binary-related topics.
-I'm also playing for [Project Sekai.](https://sekai.team/).
-
-Since you're reading my blog, I hope we can be friends.
-
-<----- So, check here real quick.
-
-Hope you enjoy it and have a great day!
-
-## Journeys Around the World
-
-Yes, I love traveling. Anyway, I hope that someday I can visit other countries (Japan, Korea, USA,...) as well. I love experiencing different cultures...
+I’ve always dreamed of traveling and exploring different parts of the world — places like **Japan**, **South Korea**, and the **USA** are high on my list. Learning about different cultures, people, and ways of life fascinates me.
 
 ![countries](/images/countries.png)
