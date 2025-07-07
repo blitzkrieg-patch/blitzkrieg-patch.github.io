@@ -63,7 +63,7 @@ open_graph:
 excerpt_link: Read More
 
 footer:
-  since: 2022 # 2020-current year
+  since: 2025 # 2020-current year
   powered: true
   count: true
   busuanzi: true
@@ -380,7 +380,7 @@ clipboard:
   copyright:
     enable: false
     count: 50 # The number of characters when the copyright is displayed
-    content: All articles in this blog are licensed under BY-NC-SA unless otherwise stated. Please indicate the source when reprinting!
+    content: All articles in this blog are licensed 
 
 # Back To Top
 top:
@@ -412,7 +412,7 @@ sponsor:
     rotate: true
     mask: true # whether to use the images as a mask
   qr:
-    - name: buymeacoffee.com/lephuduc                
+    - name: /buymeacoffee.com/mratmornkhant                
       src: "/images/bmc_qr_lephuduc.png"
       # url: buymeacoffee.com/lephuduc                
     # - name: 微信
