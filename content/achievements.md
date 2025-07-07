@@ -12,7 +12,7 @@ lastmod: 2025-02-20T20:12:52+08:00
 **🥇 First Prize** — Myanmar Cyber Security Challenge 2024  
 Led **Team U_SH3LL** to victory in Myanmar's most prestigious national cybersecurity competition.
 
-Issued by **Myanmar Cyber Security Center (MCSC)**
+Issued by **National Cyber Security Center (NCSC)**
 
 ---
 
@@ -21,7 +21,7 @@ Issued by **Myanmar Cyber Security Center (MCSC)**
 **🥉 Third Prize** — Myanmar Cyber Security Challenge 2023  
 Served as **Team Leader** of **U_SH3LL**, showcasing skills in reverse engineering, web security, and digital forensics.
 
-Issued by **Myanmar Cyber Security Center (MCSC)**
+Issued by **Nation Cyber Security Center (NCSC)**
 
 ---
 

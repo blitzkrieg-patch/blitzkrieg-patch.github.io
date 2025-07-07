@@ -26,8 +26,8 @@ monthFormat: "2006-01"
 dateFormat: "2006-01-02"
 timeFormat: "2006-01-02 15:04:05"
 
-author: Le Phu Duc
-description: "a.k.a Jinn"
+author: Myat Min Khant
+description: "a.k.a blitzkri3g"
 subtitle: "Reverse, 리버스, リバース,..."
 
 banner: "images/newjeans3.jpg"
@@ -76,13 +76,13 @@ footer:
 sidebar: left
 
 social:
-  # email: mailto:lephuduc111@gmail.com
-  github: https://github.com/lephuduc
+  # email: mailto:mratmornkhant@gmail.com
+  github: https://github.com/blitzkrieg-patch
   # google: https://plus.google.com/yourname
-  twitter: https://twitter.com/lephuduck
-  facebook: https://www.facebook.com/lephuduc0309
-  instagram: https://www.instagram.com/le.phuduc
-  linkedin: https://www.linkedin.com/in/lephuduc
+  twitter: https://twitter.com/mratmornkhant
+  facebook: https://www.facebook.com/mratminkhant
+  instagram: https://www.instagram.com/mratmornkhant
+  linkedin: https://www.linkedin.com/in/myatminkhant
   # pinterest: https://www.pinterest.com/yourname
   # youtube: https://www.youtube.com/channel/yourname
   # vimeo: https://vimeo.com/yourname
