@@ -27,7 +27,7 @@ dateFormat: "2006-01-02"
 timeFormat: "2006-01-02 15:04:05"
 
 author: Myat Min Khant
-description: "a.k.a blitzkri3g"
+description: "a.k.a blitzkrieg"
 subtitle: "Reverse, 리버스, リバース,..."
 
 banner: "images/newjeans3.jpg"
@@ -412,7 +412,7 @@ sponsor:
     rotate: true
     mask: true # whether to use the images as a mask
   qr:
-    - name: /buymeacoffee.com/mratmornkhant                
+    - name: kpay qr :( Hee Hee                
       src: "/images/bmc_qr_lephuduc.png"
       # url: buymeacoffee.com/lephuduc                
     # - name: 微信
