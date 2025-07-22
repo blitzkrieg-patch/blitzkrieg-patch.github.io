@@ -484,23 +484,23 @@ player:
     enable: true
     options:
       audio: 
-        - name: "Die With A Smile"
-          artist: "Lady Gaga, Bruno Mars"
+        - name: "Под ракитою"
+          artist: "Russian Folk Song"
           url: /songs/die_with_a_smile.mp3
           cover: /images/song_covers/die_with_a_smile.jpg
           lrc: /songs/die_with_a_smile.lrc
-        - name: "Ditto"
-          artist: "NewJeans (뉴진스)"
+        - name: "Just One Smile Is Very Alluring"
+          artist: "Love020 Theme Song"
           url: /songs/ditto.mp3
           cover: /images/song_covers/ditto.jpg
           lrc: /songs/ditto.lrc
-        - name: "光るなら"
-          artist: "Goose house"
+        - name: "ခွဲခွာခြင်းများ"
+          artist: "စိုးလွင်လွင်"
           url: /songs/hikarunara.mp3
           cover: /images/song_covers/hikarunara.jpg
           lrc: /songs/hikarunara.lrc
-        - name: "高嶺の花子さん"
-          artist: "back number"
+        - name: "Happy Nation"
+          artist: "Ace of Base"
           url: /songs/takaneno_hanakosan.mp3
           cover: /images/song_covers/takaneno_hanakosan.png
           lrc: /songs/takaneno_hanakosan.lrc

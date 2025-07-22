@@ -21,8 +21,4 @@ Hope you enjoy reading, and have an awesome day!
 
 ---
 
-## 🌍 A Dream to Travel
 
-I’ve always dreamed of traveling and exploring different parts of the world — places like **Japan**, **South Korea**, and the **USA** are high on my list. Learning about different cultures, people, and ways of life fascinates me.
-
-![countries](/images/countries.png)
