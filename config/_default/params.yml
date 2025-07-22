@@ -485,12 +485,12 @@ player:
     options:
       audio: 
         - name: "Под ракитою"
-          artist: "Russian Folk Song"
+          artist: "Folk Song"
           url: /songs/die_with_a_smile.mp3
           cover: /images/song_covers/die_with_a_smile.jpg
           lrc: /songs/die_with_a_smile.lrc
         - name: "Just One Smile Is Very Alluring"
-          artist: "Love020 Theme Song"
+          artist: "Love020"
           url: /songs/ditto.mp3
           cover: /images/song_covers/ditto.jpg
           lrc: /songs/ditto.lrc
