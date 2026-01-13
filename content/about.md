@@ -7,13 +7,14 @@ lastmod: 2025-02-20T20:12:52+08:00
 
 ## Hey, I'm Myat Min Khant 👋
 
-I'm **Myat Min Khant**, a final-year **Cyber Security and Forensic** student at the **University of Computer Studies, Yangon**.
 
-Currently, I'm working as a **SOC Analyst** at **Kernellix**, where I deal with real-world threats and security monitoring on a daily basis.
+I'm Myat Min Khant, a graduate in Cyber Security and Forensics from the University of Computer Studies, Yangon (UCSY).
 
-I’m passionate about all things cybersecurity — especially **Reverse Engineering**, **Web Security**, and **Digital Forensics**. I actively participate in **CTFs** and enjoy solving challenging problems that require both technical skills and creativity.
+I’m deeply interested in Malware Analysis and Reverse Engineering. I enjoy understanding how malware works at a low level, breaking down binaries, and analyzing techniques used by attackers — with the goal of improving detection and defense.
 
-If you’ve made it to my blog, I hope something here interests or inspires you. Don’t hesitate to reach out — I’m always up for a good conversation on cyber stuff!
+I actively participate in CTFs and like solving challenges that require strong analytical thinking, low-level knowledge, and creativity.
+
+If you’ve made it to my blog, I hope something here interests or inspires you. Don’t hesitate to reach out — I’m always up for a good conversation about cybersecurity, malware, or reversing.
 
 > <----- Yep, you found this little corner. Glad you're here!
 
