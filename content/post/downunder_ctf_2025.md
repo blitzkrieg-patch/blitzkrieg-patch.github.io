@@ -18,6 +18,7 @@ cover: /images/reverse_kr/down_cover.png
 
 ![image](https://hackmd.io/_uploads/SkNuiXaLle.png)
 
+Hello 
 ကျွန်တော်တို့ F$NPwn3d Team အနေနဲ့ ပြိုင်ပွဲမှာ reverse engineering challenge 6/7 ခု solve နိုင်ခဲ့ပါတယ်။  `Big thanks to my teammates who solved the two reverse engineering challenges,rocky and bilingual — awesome work!`
 
 ## rocky
