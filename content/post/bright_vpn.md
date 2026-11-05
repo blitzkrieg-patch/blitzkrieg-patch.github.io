@@ -9,7 +9,7 @@ date: 2026-10-23
 draft: false
 authors:
   - blitzkrieg
-cover: 	/images/reverse_kr/rat.png
+cover: 	/images/reverse_kr/bright.jpg
 ---
 
 
